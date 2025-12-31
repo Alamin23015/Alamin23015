@@ -1,27 +1,23 @@
-import java.io.FileNotFoundException;
-import java.util.Formatter;
-import java.util.Scanner;
+👨‍💻 About Me
+I am a passionate ICT student and a Full Stack Developer with a strong foundation in the MERN Stack. I love exploring the Linux ecosystem and have hands-on experience developing Gnome Extensions. While my primary focus is building scalable web applications, I also enjoy solving complex algorithmic problems using C, C++, Java (OOP), and Python.
 
-class FileDemo {
-    public static void main(String[] args) {
-        String id, name;
-        
-        try {
-            Formatter formatter = new Formatter("D:/JAVA/student Details.txt");
-            Scanner input = new Scanner(System.in);
+🚀 Current Activities
+🔭 I’m currently working on Style-decor using MERN Stack.
+🌱 I’m currently exploring Next.js for server-side rendering.
+💡 Solving Data Structure & Algorithm problems on LeetCode/CodeForces.
+🛠️ Tech Stack & Skills
+Frontend Development
 
-            System.out.println("How many students: ");
-            int num = input.nextInt();
-            for (int i = 1; i <= num; i++) {
-                System.out.println("Enter the student name and id:");
-                id = input.next();
-                name = input.next();
-                formatter.format("%s %s\r\n", id, name);
-            }
-            formatter.close();
-            input.close();
-        } catch (FileNotFoundException e) {
-            System.out.println(e);
-        }
-    }
-}
+    
+
+Backend & Database
+
+   
+
+Programming Languages
+
+    
+
+Tools & Environment
+
+   
