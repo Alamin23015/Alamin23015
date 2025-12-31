@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.ibb.co/S769Y9Y/github-banner.png](https://www.canva.com/design/DAG9DF4eDJM/anjgwm19w02gVGsIpizXcw/view?utm_content=DAG9DF4eDJM&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h80059c1f5c)" alt="" width="100%">
+  <img src="https://raw.githubusercontent.com/Alamin23015/Source_image/main/Hello%20world!.jpg" alt="" width="100%">
 </p>
 
 <h1 align="center">Hi there, I'm Al Amin Hossain 👋</h1>
